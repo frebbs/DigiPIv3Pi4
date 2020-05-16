@@ -1,6 +1,6 @@
-const workingDirRoot = '/Users/aaron/DevFolder/DigiPIv3Pi4/workingPiDir/';
-const workingDirUploads = '/Users/aaron/DevFolder/DigiPIv3Pi4/workingPiDir/uploads';
-const workingDirCurrentlyPlaying = '/Users/aaron/DevFolder/DigiPIv3Pi4/workingPiDir/playing';
+const workingDirRoot = __dirname + '/workingPiDir/';
+const workingDirUploads = __dirname + '/workingPiDir/uploads';
+const workingDirCurrentlyPlaying = __dirname + '/workingPiDir/playing';
 
 const fs = require('fs');
 
