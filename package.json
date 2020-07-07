@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "chokidar": "^3.4.0",
-    "npm": "^6.14.5"
+    "npm": "^6.14.6"
   }
 }
